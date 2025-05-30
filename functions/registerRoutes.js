@@ -1,7 +1,7 @@
 const http = require("http");
 const { z } = require("zod");
 const admin = require("firebase-admin");
-const FirestoreStorage = require('./storage');  // path depends on file structure
+const FirestoreStorage = require('./storage');
 const storage = new FirestoreStorage();
 
 const {
