@@ -23,8 +23,8 @@ Many African communities experience water scarcity. WaterWise aims to:
 
 ### Frontend
 - HTML
-- CSS (Tailwind Optional)
-- Vanilla JavaScript or React (if preferred)
+- CSS 
+- Vanilla JavaScript 
 
 ### Backend
 - Node.js
@@ -55,7 +55,7 @@ Many African communities experience water scarcity. WaterWise aims to:
 - Alerts triggered if usage exceeds daily average
 - Alerts via email or visual cues on the dashboard
 
-### 🧠 AI Insight Generator (Optional/Advanced)
+### 🧠 AI Insight Generator (Advanced)
 - Firebase Cloud Functions to generate water-saving tips
 - Simple rule-based logic to keep implementation light
 
@@ -89,7 +89,7 @@ WaterWise/
 
 1. **Clone the repo**
 ```bash
-git clone https://github.com/your-username/WaterWise.git
+git clone https://github.com/waweruedwin8/WaterWise.git
 cd WaterWise
 ````
 
