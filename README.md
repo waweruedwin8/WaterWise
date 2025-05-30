@@ -1,4 +1,4 @@
-```markdown
+```markdown```
 # 🌊 AquaTrack - Water Conservation Management
 
 **AquaTrack** WaterWise is a smart water usage tracker built to help African communities monitor their household or communal water consumption. It provides valuable AI-powered tips for conservation and sends alerts when abnormal water usage is detected.
